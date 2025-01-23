@@ -1,12 +1,18 @@
 # Calculator App
 
+---
+
 ## 📜 Documentation
+
+---
 
 ### 🛠️ Functionality
 The Calculator App is a user-friendly tool designed for performing basic mathematical operations. Here’s what it can do:
 - **Basic Operations**: Addition, subtraction, multiplication, and division.
 - **Clear Functions**: Clear the last entered digit or reset the entire calculation.
 - **Error Handling**: Displays appropriate error messages for invalid inputs (e.g., division by zero).
+
+---
 
 ### 🚀 Usage
 1. **Navigate the Interface**:  
@@ -16,6 +22,8 @@ The Calculator App is a user-friendly tool designed for performing basic mathema
 2. **Perform Calculations**:
    - Enter numbers and select the desired operation.
    - Press "=" to get the result.
+
+---
 
 ### 🛠️ Setup
 
@@ -30,6 +38,7 @@ Ensure you have **Node.js** installed. Run the following command to install nece
 ```bash
 npm install
 ```
+---
 
 #### 3. Start the Application
 To run the app in development mode:
@@ -45,6 +54,7 @@ npm run build
 ```
 The build files will be located in the `build/` folder.
 
+---
 
 ### 🧩 Technology Stack
  React.js with Tailwind CSS for styling.
